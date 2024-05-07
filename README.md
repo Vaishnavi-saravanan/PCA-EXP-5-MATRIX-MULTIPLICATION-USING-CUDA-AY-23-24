@@ -3,7 +3,7 @@
 <h3>ENTER YOUR NAME : VAISHNAVI S</h3>
 <h3>ENTER YOUR REGISTER NO : 212222230165</h3>
 <h3>EX. NO : 05</h3>
-<h3>DATE : 26.04.2024</h3>
+<h3>DATE : 10.04.2024</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
